@@ -5,7 +5,7 @@ export default function Root() {
   return (
     <>
       <MainNavigation />
-      <main>
+      <main   >
         <Outlet />
       </main>
     </>
